@@ -4,7 +4,7 @@
 
 ### Engenharia de Software 1
 
-- Ana Carolina Gonsalves Neves
+- Ana Carolina Gonçalves Neves
 - Elias Motta Dias Silva Junior
 - Endrew Marra Pedrosa
 - Henrique Sant'Ana
